@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shashank Pandey
 - 👀 I’m interested in Sleeping
 - 🌱 I’m currently learning How to find Easy step to run
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on in any open Source area project whom i am intrested
 - 📫 How to reach me codersbug@gmail.com 
 - ⚡ Fun fact: I am a Night Owl
 
