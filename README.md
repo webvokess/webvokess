@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me codersbug@gmail.com 
 - ⚡ Fun fact: I am a Night Owl
-- 
 
 <!---
 webvokess/webvokess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
