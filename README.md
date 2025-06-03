@@ -5,7 +5,7 @@
   
 </div>
 
-## Hey there! 👋
+## Hey there! 
 
 ! I'm Shashank , a driven and innovative computer science enthusiast currently pursuing my education in B-tech From IIT Madras . I have a relentless passion for coding and a profound fascination with leveraging technology to solve real-world challenges.
 
